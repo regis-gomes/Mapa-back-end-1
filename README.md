@@ -1,4 +1,9 @@
 # Mapa-back-end-1
+Regis Gomes Vasconcelos
+RA: 21077481-5
+Curso: Sistemas para internet
+Ano: 2022
+
 PROJETO-MAPA:
 1 - Ao carregar a página principal do site, é necessário que apresente um cabeçalho e um rodapé personalizado para a Dona Rita, lembre-se de colocar sua assinatura no rodapé.
 2 – Ainda na página inicial é necessário que liste todas as marmitas que Dona Rita produz utilizando uma estrutura de repetição. Para este caso, é necessário que os dados: nome da marmita, tamanho, preço, imagem e ingredientes, estejam em um array multidimensional.
